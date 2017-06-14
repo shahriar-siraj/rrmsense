@@ -1406,7 +1406,7 @@ img{
 	position:relative;
 	width:100%;
 	overflow:hidden;
-	max-height: 220px;
+	height: 220px;
 }
 
 .default-portfolio-item .image-box{

@@ -138,52 +138,32 @@
                         </div>
 
                         <!-- Popular Tags -->
-                       <div class="sidebar-widget popular-posts">
+                        <div class="sidebar-widget popular-posts">
                             <div class="sidebar-title"><h3>Our Skills</h3></div>
-                            <div class="skillbar clearfix " data-percent="80%">
-                                <div class="skillbar-title" style="background: #88cd2a;"><span>HTML 5</span></div>
-                                <div class="skillbar-bar" style="background: #88cd2a;"></div>
-                                <div class="skill-bar-percent">80%</div>
-                            </div>
                             <div class="skillbar clearfix " data-percent="90%">
-                                <div class="skillbar-title" style="background: #00a8ff;"><span>CSS</span></div>
-                                <div class="skillbar-bar" style="background: #00a8ff;"></div>
-                                <div class="skill-bar-percent">90%</div>
-                            </div>
-                            <div class="skillbar clearfix " data-percent="90%">
-                                <div class="skillbar-title" style="background: #DE6B48;"><span>JS & JQUERY</span></div>
+                                <div class="skillbar-title" style="background: #DE6B48;"><span>C#</span></div>
                                 <div class="skillbar-bar" style="background: #DE6B48;"></div>
                                 <div class="skill-bar-percent">90%</div>
                             </div>
                             <div class="skillbar clearfix " data-percent="80%">
-                                <div class="skillbar-title" style="background: #E5B181;"><span>PHP</span></div>
+                                <div class="skillbar-title" style="background: #E5B181;"><span>Java</span></div>
                                 <div class="skillbar-bar" style="background: #E5B181;"></div>
                                 <div class="skill-bar-percent">80%</div>
                             </div>
                             <div class="skillbar clearfix " data-percent="80%">
-                                <div class="skillbar-title" style="background: #9A48D0;"><span>MYSQL</span></div>
+                                <div class="skillbar-title" style="background: #9A48D0;"><span>.NET Framework</span></div>
                                 <div class="skillbar-bar" style="background: #9A48D0;"></div>
                                 <div class="skill-bar-percent">80%</div>
                             </div>
                             <div class="skillbar clearfix " data-percent="80%">
-                                <div class="skillbar-title" style="background: #394F49;"><span>WORDPRESS</span></div>
+                                <div class="skillbar-title" style="background: #394F49;"><span>MySQL</span></div>
                                 <div class="skillbar-bar" style="background: #394F49;"></div>
                                 <div class="skill-bar-percent">80%</div>
                             </div>
                             <div class="skillbar clearfix " data-percent="95%">
-                                <div class="skillbar-title" style="background: #B1EDE8;"><span>PHOTOSHOP</span></div>
+                                <div class="skillbar-title" style="background: #B1EDE8;"><span>Laravel</span></div>
                                 <div class="skillbar-bar" style="background: #B1EDE8;"></div>
                                 <div class="skill-bar-percent">95%</div>
-                            </div>
-                            <div class="skillbar clearfix " data-percent="95%">
-                                <div class="skillbar-title" style="background: #083D77;"><span>ILLUSTRATOR</span></div>
-                                <div class="skillbar-bar" style="background: #083D77;"></div>
-                                <div class="skill-bar-percent">95%</div>
-                            </div>
-                            <div class="skillbar clearfix " data-percent="50%">
-                                <div class="skillbar-title" style="background: #DC0073;"><span>LARAVEL</span></div>
-                                <div class="skillbar-bar" style="background: #DC0073;"></div>
-                                <div class="skill-bar-percent">50%</div>
                             </div>
                         </div>
 

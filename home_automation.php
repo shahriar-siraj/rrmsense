@@ -137,52 +137,67 @@
                         </div>
 
                         <!-- Popular Tags -->
-                       <div class="sidebar-widget popular-posts">
+                        <div class="sidebar-widget popular-posts">
                             <div class="sidebar-title"><h3>Our Skills</h3></div>
                             <div class="skillbar clearfix " data-percent="80%">
-                                <div class="skillbar-title" style="background: #88cd2a;"><span>HTML 5</span></div>
+                                <div class="skillbar-title" style="background: #88cd2a;"><span>C</span></div>
                                 <div class="skillbar-bar" style="background: #88cd2a;"></div>
                                 <div class="skill-bar-percent">80%</div>
                             </div>
                             <div class="skillbar clearfix " data-percent="90%">
-                                <div class="skillbar-title" style="background: #00a8ff;"><span>CSS</span></div>
+                                <div class="skillbar-title" style="background: #00a8ff;"><span>C++</span></div>
                                 <div class="skillbar-bar" style="background: #00a8ff;"></div>
                                 <div class="skill-bar-percent">90%</div>
                             </div>
                             <div class="skillbar clearfix " data-percent="90%">
-                                <div class="skillbar-title" style="background: #DE6B48;"><span>JS & JQUERY</span></div>
+                                <div class="skillbar-title" style="background: #DE6B48;"><span>C#</span></div>
                                 <div class="skillbar-bar" style="background: #DE6B48;"></div>
                                 <div class="skill-bar-percent">90%</div>
                             </div>
                             <div class="skillbar clearfix " data-percent="80%">
-                                <div class="skillbar-title" style="background: #E5B181;"><span>PHP</span></div>
+                                <div class="skillbar-title" style="background: #E5B181;"><span>Java</span></div>
                                 <div class="skillbar-bar" style="background: #E5B181;"></div>
                                 <div class="skill-bar-percent">80%</div>
                             </div>
                             <div class="skillbar clearfix " data-percent="80%">
-                                <div class="skillbar-title" style="background: #9A48D0;"><span>MYSQL</span></div>
+                                <div class="skillbar-title" style="background: #9A48D0;"><span>Python</span></div>
                                 <div class="skillbar-bar" style="background: #9A48D0;"></div>
                                 <div class="skill-bar-percent">80%</div>
                             </div>
                             <div class="skillbar clearfix " data-percent="80%">
-                                <div class="skillbar-title" style="background: #394F49;"><span>WORDPRESS</span></div>
+                                <div class="skillbar-title" style="background: #394F49;"><span>Django Framework</span></div>
                                 <div class="skillbar-bar" style="background: #394F49;"></div>
                                 <div class="skill-bar-percent">80%</div>
                             </div>
                             <div class="skillbar clearfix " data-percent="95%">
-                                <div class="skillbar-title" style="background: #B1EDE8;"><span>PHOTOSHOP</span></div>
+                                <div class="skillbar-title" style="background: #B1EDE8;"><span>NodeJS</span></div>
                                 <div class="skillbar-bar" style="background: #B1EDE8;"></div>
                                 <div class="skill-bar-percent">95%</div>
                             </div>
                             <div class="skillbar clearfix " data-percent="95%">
-                                <div class="skillbar-title" style="background: #083D77;"><span>ILLUSTRATOR</span></div>
+                                <div class="skillbar-title" style="background: #083D77;"><span>MongoDB</span></div>
                                 <div class="skillbar-bar" style="background: #083D77;"></div>
                                 <div class="skill-bar-percent">95%</div>
                             </div>
-                            <div class="skillbar clearfix " data-percent="50%">
-                                <div class="skillbar-title" style="background: #DC0073;"><span>LARAVEL</span></div>
+                            <div class="skillbar clearfix " data-percent="85%">
+                                <div class="skillbar-title" style="background: #DC0073;"><span>Arduino</span></div>
                                 <div class="skillbar-bar" style="background: #DC0073;"></div>
-                                <div class="skill-bar-percent">50%</div>
+                                <div class="skill-bar-percent">85%</div>
+                            </div>
+                            <div class="skillbar clearfix " data-percent="80%">
+                                <div class="skillbar-title" style="background: #D8D8D8;"><span>Raspberry Pi</span></div>
+                                <div class="skillbar-bar" style="background: #D8D8D8;"></div>
+                                <div class="skill-bar-percent">80%</div>
+                            </div>
+                            <div class="skillbar clearfix " data-percent="90%">
+                                <div class="skillbar-title" style="background: #1481BA;"><span>IoT</span></div>
+                                <div class="skillbar-bar" style="background: #1481BA;"></div>
+                                <div class="skill-bar-percent">90%</div>
+                            </div>
+                            <div class="skillbar clearfix " data-percent="90%">
+                                <div class="skillbar-title" style="background: #FF5E5B;"><span>Circuit & PCB Design</span></div>
+                                <div class="skillbar-bar" style="background: #FF5E5B;"></div>
+                                <div class="skill-bar-percent">90%</div>
                             </div>
                         </div>
 

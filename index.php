@@ -102,8 +102,8 @@
                     
                     </li>
                     
-                    <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/3.jpg"  data-saveperformance="off"  data-title="Awesome Title Here">
-                    <img src="images/main-slider/3.jpg"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat"> 
+                    <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="images/background/sense_web_banner.jpg"  data-saveperformance="off"  data-title="Awesome Title Here">
+                    <img src="images/background/sense_web_banner.jpg"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat"> 
                     
                     <!--Slide Overlay-->
                     <div class="slide-overlay"></div>
@@ -145,7 +145,7 @@
                     data-elementdelay="0.01"
                     data-endelementdelay="0.3"
                     data-endspeed="1200"
-                    data-endeasing="Power4.easeIn"><div class="text text-right">With over 10 years of experience in business consulting <br>helping businesses to find comprehensive solutions</div></div>
+                    data-endeasing="Power4.easeIn"><div class="text text-right">The first tailor made ERP Solution for <br>Steel Industries in Bangladesh</div></div>
                     
                     <div class="tp-caption sfl sfb tp-resizeme"
                     data-x="right" data-hoffset="-15"
@@ -496,7 +496,7 @@
                                     <div class="overlay-inner">
                                         <div class="content">
                                             <h4><a href="http://www.ranisteel.com/">MAGICBOX</a></h4>
-                                            <div class="text">Lets you connect with RMD devices</div>
+                                            <div class="text">Home Automation App</div>
                                             <a href="images/projects/apps/magicbox.png" class="lightbox-image option-btn" title="Image Caption Here" data-fancybox-group="example-gallery"><span class="flaticon-cross"></span></a>
                                         </div>
                                     </div>
@@ -511,7 +511,7 @@
                                 <div class="overlay-box">
                                     <div class="overlay-inner">
                                         <div class="content">
-                                            <h4><a href="http://www.ranisteel.com/">RRM EWL</a></h4>
+                                            <h4><a href="http://www.ranisteel.com/">RRM EWL APP</a></h4>
                                             <div class="text">Official android client for rrmewl.com</div>
                                             <a href="images/projects/apps/rrmewl.png" class="lightbox-image option-btn" title="Image Caption Here" data-fancybox-group="example-gallery"><span class="flaticon-cross"></span></a>
                                         </div>
@@ -528,7 +528,7 @@
                                 <div class="overlay-box">
                                     <div class="overlay-inner">
                                         <div class="content">
-                                            <h4><a href="project-single.html">RRM ENEWS</a></h4>
+                                            <h4><a href="project-single.html">RRM ENEWS APP</a></h4>
                                             <div class="text">Latest news across all over the world, which updates in every 30 minutes</div>
                                             <a href="images/projects/apps/rrmnews.png" class="lightbox-image option-btn" title="Image Caption Here" data-fancybox-group="example-gallery"><span class="flaticon-cross"></span></a>
                                         </div>
@@ -545,7 +545,7 @@
                                 <div class="overlay-box">
                                     <div class="overlay-inner">
                                         <div class="content">
-                                            <h4><a href="project-single.html">RADIO 360</a></h4>
+                                            <h4><a href="project-single.html">RADIO 360 APP</a></h4>
                                             <div class="text">Enjoy lots of bangla FM Radio, Music channels, News channels, Islamic channel and so on.</div>
                                             <a href="images/projects/apps/radio360.png" class="lightbox-image option-btn" title="Image Caption Here" data-fancybox-group="example-gallery"><span class="flaticon-cross"></span></a>
                                         </div>
@@ -557,7 +557,37 @@
                         
                     </div>
                     <div id="menu3" class="tab-pane fade">
-                      
+                      <div class="default-portfolio-item col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                            <div class="inner-box">
+                                <figure class="image-box"><img src="images/projects/softwares/HRM.png" alt=""></figure>
+                                <!--Overlay Box-->
+                                <div class="overlay-box">
+                                    <div class="overlay-inner">
+                                        <div class="content">
+                                            <h4><a href="#">HRM Software</a></h4>
+                                            <div class="text">Human Resource Management Software for RRM Group</div>
+                                            <a href="images/projects/apps/magicbox.png" class="lightbox-image option-btn" title="Image Caption Here" data-fancybox-group="example-gallery"><span class="flaticon-cross"></span></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="default-portfolio-item col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                            <div class="inner-box">
+                                <figure class="image-box"><img src="images/projects/softwares/SALES.png" alt=""></figure>
+                                <!--Overlay Box-->
+                                <div class="overlay-box">
+                                    <div class="overlay-inner">
+                                        <div class="content">
+                                            <h4><a href="#">Sales Software</a></h4>
+                                            <div class="text">Sales Software for RRM Group</div>
+                                            <a href="images/projects/apps/rrmewl.png" class="lightbox-image option-btn" title="Image Caption Here" data-fancybox-group="example-gallery"><span class="flaticon-cross"></span></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                     <div id="menu4" class="tab-pane fade">
                         <div class="default-portfolio-item col-lg-4 col-md-4 col-sm-6 col-xs-12">
@@ -568,7 +598,7 @@
                                     <div class="overlay-inner">
                                         <div class="content">
                                             <h4><a href="project-single.html">MAGICBOX</a></h4>
-                                            <div class="text">RMD Device</div>
+                                            <div class="text">Home Automation Device</div>
                                             <a href="images/gallery/dev.jpg" class="lightbox-image option-btn" title="Image Caption Here" data-fancybox-group="example-gallery"><span class="flaticon-cross"></span></a>
                                         </div>
                                     </div>
@@ -590,7 +620,7 @@
     
     
     <!--Sponsors Section-->
-    <section class="sponsors-style-one" style="background-image:url(images/background/cl.jpg);">
+    <section id="clientsDiv" class="sponsors-style-one">
     	<div class="auto-container">
             
             <div class="row clearfix">
@@ -598,7 +628,7 @@
                 <div class="content-column col-md-4 col-sm-12 col-xs-12">
                     <div class="inner">
                     	<h2>Our <span class="theme_color">Clients!</span></h2>
-                        <div class="text">We’ll help you rollover your old retirement plan so you can enjoy our wide variety of investment options and roll your old one-on-one guidance retirement plan.</div>
+                        <div class="text">We'll help you rollover your old retirement plan so you can enjoy our wide variety of investment options and roll your old one-on-one guidance retirement plan.</div>
                         <a href="#" class="theme-btn btn-style-three">Start today</a>
                     </div>
                 </div>
@@ -608,7 +638,7 @@
                     <div class="carousel-outer">
                     	<ul class="sponsors-carousel-one owl-theme owl-carousel">
                         	<li><a href="#"><img src="images/sponsors/11.png" alt=""></a></li>
-                            <li><a href="#"><img src="images/sponsors/12.png" alt=""></a></li>
+                            <!-- <li><a href="#"><img src="images/sponsors/12.png" alt=""></a></li> -->
                             <li><a href="#"><img src="images/sponsors/13.png" alt=""></a></li>
                             <li><a href="#"><img src="images/sponsors/15.png" alt=""></a></li>
                             <li><a href="#"><img src="images/sponsors/schematics2.png" alt=""></a></li>
@@ -620,110 +650,25 @@
             
         </div>
     </section>
-    
-   
-    
-    
-    <!--Testimonial Style One Section-->
-    <section class="testimonial-style-one" style="background-image:url(images/background/image-4.jpg);">
-    	<div class="auto-container">
-            
-            <!--Title-->
-        	<div class="sec-title light">
-            	<h2>Testimonials </h2>
-            </div>
-            <!--Testimonial Carousel One-->
-            <div class="testimonial-carousel-one">
-            	<!--Testimonials Content-->
-            	<div class="carousel-content owl-theme owl-carousel">
-                	<!--Slide-->
-                    <div class="slide">
-                    	<div class="icon-box"><span class="flaticon-left-quote"></span></div>
-                        <div class="text">These men promptly escaped from a maximum security stockade to the Los geles the and his skipper first mate These men promptly escaped from a maximum security stockade to the Los geles the and his skipper first mate These men promptly escaped from a maximum security stockade to the Los geles the and his skipper first mate These men promptly escaped from a maximum security.</div>
-                    </div>
-                    <!--Slide-->
-                    <div class="slide">
-                    	<div class="icon-box"><span class="flaticon-left-quote"></span></div>
-                        <div class="text">These men promptly escaped from a maximum security stockade to the Los geles the and his skipper first mate These men promptly escaped from a maximum security stockade to the Los geles the and his skipper first mate These men promptly escaped from a maximum security stockade to the Los geles the and his skipper first mate These men promptly escaped from a maximum security.</div>
-                    </div>
-                    <!--Slide-->
-                    <div class="slide">
-                    	<div class="icon-box"><span class="flaticon-left-quote"></span></div>
-                        <div class="text">These men promptly escaped from a maximum security stockade to the Los geles the and his skipper first mate These men promptly escaped from a maximum security stockade to the Los geles the and his skipper first mate These men promptly escaped from a maximum security stockade to the Los geles the and his skipper first mate These men promptly escaped from a maximum security.</div>
-                    </div>
-                    <!--Slide-->
-                    <div class="slide">
-                    	<div class="icon-box"><span class="flaticon-left-quote"></span></div>
-                        <div class="text">These men promptly escaped from a maximum security stockade to the Los geles the and his skipper first mate These men promptly escaped from a maximum security stockade to the Los geles the and his skipper first mate These men promptly escaped from a maximum security stockade to the Los geles the and his skipper first mate These men promptly escaped from a maximum security.</div>
-                    </div>
-                    <!--Slide-->
-                    <div class="slide">
-                    	<div class="icon-box"><span class="flaticon-left-quote"></span></div>
-                        <div class="text">These men promptly escaped from a maximum security stockade to the Los geles the and his skipper first mate These men promptly escaped from a maximum security stockade to the Los geles the and his skipper first mate These men promptly escaped from a maximum security stockade to the Los geles the and his skipper first mate These men promptly escaped from a maximum security.</div>
-                    </div>
-                    <!--Slide-->
-                    <div class="slide">
-                    	<div class="icon-box"><span class="flaticon-left-quote"></span></div>
-                        <div class="text">These men promptly escaped from a maximum security stockade to the Los geles the and his skipper first mate These men promptly escaped from a maximum security stockade to the Los geles the and his skipper first mate These men promptly escaped from a maximum security stockade to the Los geles the and his skipper first mate These men promptly escaped from a maximum security.</div>
-                    </div>
-                </div><!--End Testimonials Content-->
-                
-                <!--Testimonials Pager-->
-                <div class="carousel-pager owl-theme owl-carousel">
-                	<!--Pager-->
-                    <div class="pager">
-                    	<div class="inner">
-                        	<figure class="author-thumb img-circle"><img class="img-circle" src="images/resource/author-thumb-1.jpg" alt=""></figure>
-                            <h4>Michael Jose Reo</h4>
-                            <div class="designation">Co founder</div>
-                        </div>
-                    </div>
-                    <!--Pager-->
-                    <div class="pager">
-                    	<div class="inner">
-                        	<figure class="author-thumb img-circle"><img class="img-circle" src="images/resource/author-thumb-2.jpg" alt=""></figure>
-                            <h4>Daniel Jameson</h4>
-                            <div class="designation">Founder & CEO</div>
-                        </div>
-                    </div>
-                    <!--Pager-->
-                    <div class="pager">
-                    	<div class="inner">
-                        	<figure class="author-thumb img-circle"><img class="img-circle" src="images/resource/author-thumb-3.jpg" alt=""></figure>
-                            <h4>Max Turner</h4>
-                            <div class="designation">Marketing Officer</div>
-                        </div>
-                    </div>
-                    <!--Pager-->
-                    <div class="pager">
-                    	<div class="inner">
-                        	<figure class="author-thumb img-circle"><img class="img-circle" src="images/resource/author-thumb-1.jpg" alt=""></figure>
-                            <h4>Michael Jose Reo</h4>
-                            <div class="designation">Co founder</div>
-                        </div>
-                    </div>
-                    <!--Pager-->
-                    <div class="pager">
-                    	<div class="inner">
-                        	<figure class="author-thumb img-circle"><img class="img-circle" src="images/resource/author-thumb-2.jpg" alt=""></figure>
-                            <h4>Daniel Jameson</h4>
-                            <div class="designation">Founder & CEO</div>
-                        </div>
-                    </div>
-                    <!--Pager-->
-                    <div class="pager">
-                    	<div class="inner">
-                        	<figure class="author-thumb img-circle"><img class="img-circle" src="images/resource/author-thumb-3.jpg" alt=""></figure>
-                            <h4>Max Turner</h4>
-                            <div class="designation">Marketing Officer</div>
-                        </div>
-                    </div>
-                </div><!--End Testimonials Pager-->
-            </div>
-            
-        </div>
-    </section>
-    
+
+    <style type="text/css">
+        #clientsDiv {
+           position: relative;
+        }
+        #clientsDiv:after {
+            content : "";
+            display: block;
+            position: absolute;
+            top: 0;
+            left: 0;
+            background-image: url(images/background/clients.jpg); 
+            background-size: cover;
+            width: 100%;
+            height: 100%;
+            opacity : 0.5;
+            /*z-index: -1;*/
+        }
+    </style>
     
     
     
@@ -735,31 +680,35 @@
             <div class="default-form quote-form wow slideInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
             	<div class="small-title"><h3>Request a Call Back </h3></div>
                 
-                <form method="post" action="http://wp.hostlin.com/penza/contact.html">
+                <form method="post" action="sendemail.php">
                     <div class="row clearfix">
                             
                         <div class="form-group col-md-6 col-sm-6 col-xs-12">
-                            <input type="text" name="fname" value="" placeholder="First Name " required>
+                            <input type="text" id="fname" name="fname" value="" placeholder="First Name " required>
                         </div>
                         
                         <div class="form-group col-md-6 col-sm-6 col-xs-12">
-                            <input type="text" name="lname" value="" placeholder="Last Name " required>
+                            <input type="text" id="lname" name="lname" value="" placeholder="Last Name " required>
                         </div>
                         
                         <div class="form-group col-md-12 col-sm-12 col-xs-12">
-                            <input type="email" name="email" value="" placeholder="Email" required>
+                            <input type="email" id="email" name="email" value="" placeholder="Email" required>
                         </div>
                         
                         <div class="form-group col-md-12 col-sm-12 col-xs-12">
-                            <input type="text" name="email" value="" placeholder="Phone" required>
+                            <input type="text" id="phone" name="phone" value="" placeholder="Phone" required>
                         </div>
                           
                         <div class="form-group col-md-12 col-sm-12 col-xs-12">
-                            <textarea name="message" placeholder="Discuss with financial expert" required></textarea>
+                            <textarea id="message" name="message" placeholder="Discuss with financial expert" required></textarea>
                         </div>
                         
-                        <div class="form-group col-md-12 col-sm-12 col-xs-12">
-                            <button type="submit" class="theme-btn btn-style-three">Submit Now </button>
+                        <div class="form-group col-md-6 col-sm-6 col-xs-6">
+                            <button type="button" onclick="sendEmail()" class="theme-btn btn-style-three">Submit Now </button>
+                        </div>
+
+                        <div class="form-group col-md-6 col-sm-6 col-xs-6">
+                            <p id="emailSentTxt" style="color: #BE151B; margin-top: 10px;">Email sent successfully!</p>
                         </div>
                         
                     </div>
@@ -788,4 +737,25 @@
     home.innerHTML += menu2.innerHTML;
     home.innerHTML += menu3.innerHTML;
     home.innerHTML += menu4.innerHTML;
+
+    $('#emailSentTxt').hide();
+    var name = $('#fname').val() + $('#lname').val();
+    var email = $('#email').val();
+    var phone = $('#phone').val();
+    var message = $('#message').val();
+
+    function sendEmail() 
+    {
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function() 
+        {
+            if (this.readyState == 4 && this.status == 200) 
+            {
+                document.getElementById("emailSentTxt").innerHTML = this.responseText;
+                $('#emailSentTxt').show();
+            }
+        };
+        xhttp.open("GET", "sendemail.php?name=" + name + "&email=" + email + "&phone=" + phone + "&message=" + message, true);
+        xhttp.send();
+    }
 </script>  

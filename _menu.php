@@ -158,34 +158,29 @@
                         <div class="navbar-collapse collapse clearfix">
                             <ul class="navigation clearfix">
                                 <li><a href="index.php">Home</a>
-                                    <ul>
-                                        <li><a href="#">Homepage</a></li>
-                                        
-                                    </ul>
+                                   
                                 </li>
-
+                                
                                 <li class="dropdown"><a href="all-services.php">Services</a>
                                     <ul>
-                                        <li><a href="#">Sotware solution</a></li>
-                                        <li><a href="#">E-commerce site development</a></li>
-                                        <li><a href="#">Web Design and Development </a></li>
-                                        <li><a href="#">App Development</a></li>
-                                        <li><a href="#">Home Automation Services</a></li>
-                                        <li><a href="#">Digital Marketing</a></li>
-                                        <li><a href="#">Network Services</a></li>
+                                        <li><a href="software_solution.php">Software solution</a></li>
+                                        <li><a href="ecommerce_development.php">E-commerce site development</a></li>
+                                        <li><a href="web_development.php">Web Design and Development </a></li>
+                                        <li><a href="app_development.php">App Development</a></li>
+                                        <li><a href="home_automation.php">Home Automation Services</a></li>
+                                        <li><a href="digital_marketing.php">Digital Marketing</a></li>
+                                        <li><a href="network_services.php">Network Services</a></li>
                                         
                                     </ul>
-                                           
+                                  
                                 </li>
-                               
-                                
                                 <li class="dropdown"><a href="#">Projects</a>
                                     <ul>
-                                        <li><a href="#">will be listed</a></li>
-                                        
+                                        <li><a href="#">Will be listed</a></li>
+                                       
                                     </ul>
                                 </li>
-                                <!--
+                                <!-- 
                                 <li class="dropdown"><a href="#">Tranning</a>
                                     <ul>
                                         <li><a href="#">Tranning 1</a></li>
@@ -194,16 +189,18 @@
                                         <li><a href="#">Tranning 4</a></li>
                                     </ul>
                                 </li>
-                                -->
-                                 <li class="dropdown"><a href="about-us.html">About Us</a>
-                                            <ul>
-                                                <li><a href="our-team.php">Our Team</a></li>
-                                                <li><a href="#">Mission & Vission</a></li>                                               
-                                                <li><a href="#">Story Of RRMSENSE</a></li>
-                                            </ul>
-                                        </li>
 
-                                            <li class="dropdown"><a href="#">Blog</a> </li>
+                                -->
+                                <li class="dropdown"><a href="about_us.php">About Us</a>
+                                    <ul>
+                                        <li><a href="our-team.php">Our Team</a></li>
+                                        <li><a href="mission_and_vission.php">Mission & Vission</a></li>                                               
+                                        <li><a href="#">Story Of RRMSENSE</a></li>
+                                    </ul>
+                                </li>
+
+
+                                <li class="dropdown"><a href="blog.html">Blog</a> </li>
 
 
                                 <li><a href="contact-us.php">Contact Us</a></li>

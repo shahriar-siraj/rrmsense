@@ -179,10 +179,20 @@
                                 <div class="skillbar-bar" style="background: #083D77;"></div>
                                 <div class="skill-bar-percent">95%</div>
                             </div>
-                            <div class="skillbar clearfix " data-percent="50%">
+                            <div class="skillbar clearfix " data-percent="85%">
                                 <div class="skillbar-title" style="background: #DC0073;"><span>LARAVEL</span></div>
                                 <div class="skillbar-bar" style="background: #DC0073;"></div>
-                                <div class="skill-bar-percent">50%</div>
+                                <div class="skill-bar-percent">85%</div>
+                            </div>
+                            <div class="skillbar clearfix " data-percent="80%">
+                                <div class="skillbar-title" style="background: #DC0073;"><span>MAGENTO</span></div>
+                                <div class="skillbar-bar" style="background: #DC0073;"></div>
+                                <div class="skill-bar-percent">80%</div>
+                            </div>
+                            <div class="skillbar clearfix " data-percent="90%">
+                                <div class="skillbar-title" style="background: #DC0073;"><span>JOOMLA</span></div>
+                                <div class="skillbar-bar" style="background: #DC0073;"></div>
+                                <div class="skill-bar-percent">90%</div>
                             </div>
                         </div>
                        
